@@ -1,4 +1,4 @@
-package sort.BubbleSort;
+package sort;
 
 /**
  * @author Qian Wang
